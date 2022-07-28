@@ -26,11 +26,11 @@
 I am an Unreal Engine Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 - :telescope: I’m working in an Unreal Engine.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Explore Technical Content Writing.
 
 - :zap: In my free time, I read tech articles and play video games.
 
-- ❤️ I love video games and everything related to them.
+- ❤️ I love video games and everything related to it.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-valerii-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valerii-burachenko-328b411b8/)
 
